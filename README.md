@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Passionate Developer • 💡 Tech Enthusiast • 🎯 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFA500&center=true&vCenter=true&multiline=true&width=700&lines=🚀+Building+Innovative+Projects;🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FFA500&center=true&vCenter=true&multiline=true&width=700&lines=🚀+Building+Innovative+Projects;" />
   <br><br>
 </p>
 
